@@ -7,7 +7,7 @@ from machine import Pin,
 led=Pin("LED",Pin.OUT)
 
 ssid = 'Soumith'
-password = 'Xfinity!23'
+password = 'Monopoly!23'
 
 def connect():
     #Connect to WLAN
